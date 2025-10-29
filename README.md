@@ -23,7 +23,6 @@ It’s designed as a **learning hub + practice ground** for building modern AI-p
 │   └── docker/         # Docker setups
 ├── 🛠 projects/        # Beginner → Advanced practice projects
 ├── requirements.txt    # Python dependencies
-├── LICENSE             # License (MIT)
 └── README.md           # This file
 
 ```
