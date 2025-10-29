@@ -86,5 +86,9 @@ Open a PR 🚀
 
 > **This repo is for learning and educational purposes only.**
 
+### Video Tutorials that I am following :
+#### For Fundamentals :
+
+
 ---
 
