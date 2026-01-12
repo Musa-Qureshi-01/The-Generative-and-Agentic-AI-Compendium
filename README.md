@@ -1,12 +1,12 @@
-# The Generative & Agentic AI Compendium  
-**GenAI · Agentic Systems · LLMOps · Learning by Building**
+<div align="center">
 
+<h1 style="font-size:45px; font-weight:900;"><b>The Generative & Agentic AI Compendium</b>/h1>
+<h2 style="font-size:28px; font-weight:700;"><b>GenAI · Agentic Systems · LLMOps · Learning by Building</b></h2>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=900&lines=My+Personal+AI+Learning+Journey;Built+Through+Hands-on+Experiments;Generative+AI+%7C+Agentic+Systems+%7C+LLMOps" />
 </p>
-
----
-
+</div>
+  
 ## 📌 Introduction
 
 This repository is a **personal learning compendium** that documents my journey into  
@@ -45,9 +45,12 @@ This is not a polished framework — it is a **learning record**.
 ├── LLMOPs/             # LLMOps, deployment & reliability concepts
 ├── Project/            # Hands-on practice projects
 └── README.md           # Documentation
-Each folder represents a learning phase or concept area, not just finished code.
---- 
-🧩 Core Learning Areas
+
+> Each folder represents a learning phase or concept area, not just finished code.
+```
+---
+
+## Core Learning Areas
 Area	Focus	Path
 Generative AI	Prompting, chains, memory, tools	LangChain/
 Agentic AI	Multi-agent reasoning & workflows	LangGraph/
@@ -56,7 +59,7 @@ LLMOps	Production, scaling & reliability	LLMOPs/
 Projects	End-to-end implementations	Project/
 Books & Notes	Theory + references	Books/
 
-🛠️ Tech & Tools Used While Learning
+## Tech & Tools Used While Learning
 <p> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-black?style=flat-square"/> <img src="https://img.shields.io/badge/LangGraph-black?style=flat-square"/> <img src="https://img.shields.io/badge/LangSmith-black?style=flat-square"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> </p>
 📘 How to Use This Repository
 You can use this repository as:
@@ -71,7 +74,9 @@ You can use this repository as:
 
 Feel free to explore, run code, and adapt concepts.
 
-📚 References & Learning Sources
+---
+
+## References & Learning Sources
 This repository is built by learning from high-quality resources and validating concepts through hands-on work.
 
 Primary Reference
@@ -81,19 +86,20 @@ Playlists followed for Machine Learning, Deep Learning, NLP, and system-level un
 
 More references will be added as the learning journey continues.
 
-🤝 Feedback & Suggestions
+---
+
+## Feedback & Suggestions
 This is a personal learning repository.
 If you:
-
 Find mistakes
-
 Notice broken logic
-
 Have suggestions
 
-Feel free to open an issue or reach out. Feedback helps improve learning.
+> Feel free to open an issue or reach out. Feedback helps improve learning.
 
-⚠️ Disclaimer
+---
+
+## Disclaimer
 This repository reflects my personal learning journey.
 
 Content may contain mistakes, incomplete implementations, or evolving ideas.
