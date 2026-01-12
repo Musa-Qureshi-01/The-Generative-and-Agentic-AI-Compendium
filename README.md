@@ -1,8 +1,7 @@
 <div align="center">
-
-<h1 style="font-size:45px; font-weight:900;"><b>The Generative & Agentic AI Compendium</b>/h1>
+<h1 style="font-size:45px; font-weight:900;"><b>The Generative & Agentic AI Compendium</b></h1>
 <h2 style="font-size:28px; font-weight:700;"><b>GenAI · Agentic Systems · LLMOps · Learning by Building</b></h2>
-<p align="center">
+<p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=900&lines=My+Personal+AI+Learning+Journey;Built+Through+Hands-on+Experiments;Generative+AI+%7C+Agentic+Systems+%7C+LLMOps" />
 </p>
 </div>
@@ -61,26 +60,23 @@ Books & Notes	Theory + references	Books/
 
 ## Tech & Tools Used While Learning
 <p> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-black?style=flat-square"/> <img src="https://img.shields.io/badge/LangGraph-black?style=flat-square"/> <img src="https://img.shields.io/badge/LangSmith-black?style=flat-square"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> </p>
-📘 How to Use This Repository
+
+### How to Use This Repository
 You can use this repository as:
 
-📖 A learning reference
-
-🧠 A conceptual guide
-
-💻 A hands-on experimentation base
-
-🚀 A foundation to extend with your own ideas
-
-Feel free to explore, run code, and adapt concepts.
+- A learning reference
+-  A conceptual guide
+-  A hands-on experimentation-based
+- A foundation to extend with your own ideas
+> Feel free to explore, run code, and adapt concepts.
 
 ---
 
 ## References & Learning Sources
 This repository is built by learning from high-quality resources and validating concepts through hands-on work.
 
-Primary Reference
-CampusX (YouTube) — Nitish Singh
+1. Primary Reference
+**CampusX (YouTube) — Nitish Singh**
 Playlists followed for Machine Learning, Deep Learning, NLP, and system-level understanding.
 🔗 https://www.youtube.com/@campusx
 
@@ -100,15 +96,15 @@ Have suggestions
 ---
 
 ## Disclaimer
-This repository reflects my personal learning journey.
+- This repository reflects my personal learning journey.
+- Content may contain mistakes, incomplete implementations, or evolving ideas.
+- Code is not production-ready by default.
+- Please validate concepts independently before real-world use.
 
-Content may contain mistakes, incomplete implementations, or evolving ideas.
+> This repository is intended strictly for learning, experimentation, and documentation purposes.
 
-Code is not production-ready by default.
-
-Please validate concepts independently before real-world use.
-
-This repository is intended strictly for learning, experimentation, and documentation purposes.
+⭐**If this repository helps you, feel free to star it**.
 
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=999999&center=true&vCenter=true&width=700&lines=Learning+is+iterative;Understanding+comes+from+building;This+repository+evolves+as+I+do" /> </p>
-⭐ If this repository helps you, feel free to star it.
+
+
