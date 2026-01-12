@@ -107,4 +107,54 @@ Have suggestions
 
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=999999&center=true&vCenter=true&width=700&lines=Learning+is+iterative;Understanding+comes+from+building;This+repository+evolves+as+I+do" /> </p>
 
+## Connect With Me
 
+<p align="left">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/musa-qureshi" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg"
+         width="34" hspace="8"/>
+  </a>
+
+  <!-- X (Twitter) -->
+  <a href="https://x.com/musa_qureshi_01" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg"
+         width="32" hspace="8"/>
+  </a>
+
+  <!-- Peerlist -->
+  <a href="https://peerlist.io/musa-qureshi" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/peerlist.svg"
+         width="34" hspace="8"/>
+  </a>
+  
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/musa_qureshi" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/leetcode.svg"
+         width="34" hspace="8"/>
+  </a>
+
+  <!-- HackerEarth -->
+  <a href="https://www.hackerearth.com/@musa-qureshi" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/hackerearth.svg"
+         width="34" hspace="8"/>
+  </a>
+
+  <!-- Kaggle -->
+  <a href="https://www.kaggle.com/musa-qureshi_01" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/kaggle.svg"
+         width="34" hspace="8"/>
+  </a>
+
+  <!-- Portfolio -->
+  <a href="https://musa-qureshi-portfolio.vercel.app/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/128/3564/3564083.png"
+         width="34" hspace="8"/>
+  </a>
+  
+  <!-- Medium -->
+  <a href="https://medium.com/@musa-qureshi" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white"/>
+
+  </a>
+</p>
