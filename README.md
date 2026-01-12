@@ -6,7 +6,7 @@
 </p>
 </div>
   
-## 📌 Introduction
+## Introduction
 
 This repository is a **personal learning compendium** that documents my journey into  
 **Generative AI, Agentic AI systems, and LLM-based application engineering**.
@@ -22,7 +22,7 @@ This repo reflects:
 
 ---
 
-## 🧭 What This Repository Represents
+## What This Repository Represents
 
 - 📘 Conceptual notes written while learning  
 - 💻 Code experiments to validate ideas  
@@ -34,7 +34,7 @@ This is not a polished framework — it is a **learning record**.
 
 ---
 
-## 🗂️ Repository Structure
+## Repository Structure
 
 ```bash
 ├── Books/              # Reference books & reading material
@@ -52,7 +52,7 @@ This is not a polished framework — it is a **learning record**.
 ## Core Learning Areas
 Area	Focus	Path
 Generative AI	Prompting, chains, memory, tools	LangChain/
-Agentic AI	Multi-agent reasoning & workflows	LangGraph/
+Agentic AI, Multi-agent reasoning & workflows	LangGraph/
 Tracing & Debugging	Observability & evaluation	LangSmith/
 LLMOps	Production, scaling & reliability	LLMOPs/
 Projects	End-to-end implementations	Project/
