@@ -6,31 +6,32 @@
 </p>
 </div>
   
-## Introduction
+## Overview
 
-This repository is a **personal learning compendium** that documents my journey into  
-**Generative AI, Agentic AI systems, and LLM-based application engineering**.
+This repository is my personal learning record for **Generative AI, Agentic AI systems, and LLM-powered** application engineering.
+Every folder captures how I learned, how I built, and how my understanding evolved -- not just final code.
 
-Everything in this repository — **notes, code experiments, projects, and resources** — has been **created by me as part of my learning process**.  
-Instead of spreading experiments across multiple repositories, I intentionally chose to **consolidate my entire learning journey into a single evolving repository**.
-
-This repo reflects:
-- How I **learn concepts**
-- How I **experiment with ideas**
-- How I **build systems**
-- How my understanding **evolves over time**
+This is a single integrated compendium of:
+- Concept notes
+- Code experiments
+- Mini-projects
+- Debugging logs
+- Research summaries
+- Tools exploration
+> I built this repo to avoid scattered learning and create one consolidated system that reflects real progress.
 
 ---
 
-## What This Repository Represents
+## Goals of This Repository
 
-- 📘 Conceptual notes written while learning  
-- 💻 Code experiments to validate ideas  
-- 🧪 Practice projects (beginner → advanced)  
-- 🔍 Iterations, failures, refinements, and improvements  
-- 🧠 A growing understanding of modern AI system design  
+This repo documents:
+* How I understand concepts
+* How I experiment with ideas
+* How I build functional prototypes
+* How I approach system-level AI design
+* How I correct mistakes and iterate
 
-This is not a polished framework — it is a **learning record**.
+> This is NOT a polished framework — it’s an evolving, honest record of learning GenAI + Agents from scratch.
 
 ---
 
